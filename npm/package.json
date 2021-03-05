@@ -1,0 +1,15 @@
+{
+  "name": "meituan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue-cookie": "1.1.4",
+    "yarn": "^1.22.10"
+  }
+}
